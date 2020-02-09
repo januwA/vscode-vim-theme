@@ -1,0 +1,30 @@
+{
+  "name": "vimtheme",
+  "displayName": "VimTheme",
+  "description": "vim theme",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.42.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VimTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VimTheme-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "ajanuw",
+  "author": "Ajanuw",
+  "icon": "images/logo.png",
+  "license": "MIT",
+  "homepage": "https://github.com/januwA/vscode-vim-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/januwA/vscode-vim-theme.git"
+  }
+}
