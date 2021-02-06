@@ -1,7 +1,7 @@
 {
 	"tokenColors": "./VimBlackboard.tmTheme",
 	"colors": {
-		"editor.background": "#282a36",
+		"editor.background": "#00f900",
 		"editorCursor.foreground": "#00f900",
 		"editor.foreground": "#00f900",
 		"editorWhitespace.foreground": "#004100",
